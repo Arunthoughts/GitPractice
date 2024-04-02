@@ -31,6 +31,9 @@ public class WindowHandling {
 		System.out.println("Modifying for git");
 		System.out.println("Modifying for git");
 		System.out.println("Modifying for git");
+		
+		System.out.println("Modifying for git");
+		System.out.println("Modifying for git");
 	}
 
 }
