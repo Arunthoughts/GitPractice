@@ -26,6 +26,11 @@ public class WindowHandling {
 		System.out.println(email);
 		driver.switchTo().window(parentId);
 		driver.findElement(By.cssSelector("#username")).sendKeys(email);
+		
+		System.out.println("Modifying for git");
+		System.out.println("Modifying for git");
+		System.out.println("Modifying for git");
+		System.out.println("Modifying for git");
 	}
 
 }
